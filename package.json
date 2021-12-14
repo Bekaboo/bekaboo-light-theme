@@ -17,5 +17,9 @@
                 "path": "./themes/Bekaboo's Light Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Bekaboo/bekaboo-light-theme"
     }
 }
