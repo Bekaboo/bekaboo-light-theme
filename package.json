@@ -1,0 +1,21 @@
+{
+    "name": "bekaboo-light-theme",
+    "displayName": "Bekaboo's Light Theme",
+    "description": "A customized theme based on Community Material Theme Lighter",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bekaboo's Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Bekaboo's Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
