@@ -717,7 +717,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#C0203B"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 				"source.cpp meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#C0203B"
 			}
 		},
 		{
@@ -745,7 +745,7 @@
 				"variable.other.constant"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#C0203B"
 			}
 		},
 		{
@@ -754,7 +754,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#C0203B"
 			}
 		},
 		{
@@ -1016,7 +1016,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#C0203B"
 			}
 		},
 		{
@@ -1081,7 +1081,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"foreground": "#FF5370",
+				"foreground": "#C0203B",
 				"fontStyle": "italic"
 			}
 		},
@@ -1091,7 +1091,7 @@
 				"markup.bold string"
 			],
 			"settings": {
-				"foreground": "#FF5370",
+				"foreground": "#C0203B",
 				"fontStyle": "bold"
 			}
 		},
@@ -1105,8 +1105,8 @@
 				"markup.quote markup.bold string"
 			],
 			"settings": {
-				"foreground": "#FF5370",
-				"fontStyle": "bold"
+				"foreground": "#C0203B",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
